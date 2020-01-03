@@ -5,6 +5,6 @@ interface Props {
     repository: Repository
 }
 
-const RepositoryItem = ({ repository }: Props) => <div>{repository.name}</div>
+const Item = ({ repository }: Props) => <div>{repository.name}</div>
 
-export default RepositoryItem
+export default Item

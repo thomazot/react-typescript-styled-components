@@ -1,8 +1,12 @@
 import React from 'react'
 import { Provider } from 'react-redux'
 import store from './stores'
-import RepositoryList from './components/repository/list'
+import Routes from './routes'
 
-const App: React.FC = () => (<Provider store={store}><RepositoryList /></Provider>)
+const App: React.FC = () => (
+    <Provider store={store}>
+        <Routes />
+    </Provider>
+)
 
 export default App
