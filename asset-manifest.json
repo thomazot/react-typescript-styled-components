@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-typescript-styled-components/static/js/main.6f415ef1.chunk.js",
+    "main.js.map": "/react-typescript-styled-components/static/js/main.6f415ef1.chunk.js.map",
+    "runtime-main.js": "/react-typescript-styled-components/static/js/runtime-main.93b8e66a.js",
+    "runtime-main.js.map": "/react-typescript-styled-components/static/js/runtime-main.93b8e66a.js.map",
+    "static/js/2.adf19426.chunk.js": "/react-typescript-styled-components/static/js/2.adf19426.chunk.js",
+    "static/js/2.adf19426.chunk.js.map": "/react-typescript-styled-components/static/js/2.adf19426.chunk.js.map",
+    "index.html": "/react-typescript-styled-components/index.html",
+    "precache-manifest.687e56a5cec8a3205c236389c10dd193.js": "/react-typescript-styled-components/precache-manifest.687e56a5cec8a3205c236389c10dd193.js",
+    "service-worker.js": "/react-typescript-styled-components/service-worker.js",
+    "static/js/2.adf19426.chunk.js.LICENSE": "/react-typescript-styled-components/static/js/2.adf19426.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93b8e66a.js",
+    "static/js/2.adf19426.chunk.js",
+    "static/js/main.6f415ef1.chunk.js"
+  ]
+}
