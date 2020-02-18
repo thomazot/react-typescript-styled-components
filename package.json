@@ -2,7 +2,7 @@
     "name": "front",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://thomazot.github.io/react-typescript-styled-components",
+    "homepage": "https://thomazot.github.io/react-typescript-styled-components/",
     "dependencies": {
         "@types/jest": "24.0.25",
         "@types/node": "13.1.2",
