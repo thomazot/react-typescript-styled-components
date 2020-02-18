@@ -1,1 +1,1 @@
-export { default as ListRepository } from './List'
+export { default as ListRepository } from './list'

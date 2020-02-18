@@ -7,7 +7,7 @@ import {
 import { HomePage } from '../pages'
 
 const Routes = () => (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router>
         <Switch>
             <Route exact path="/">
                 <HomePage />

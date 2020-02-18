@@ -1,5 +1,5 @@
 import React from 'react'
-import { ListRepository } from '../components/Repository'
+import { ListRepository } from '../components/repository'
 import { Title } from '../components/Title'
 import { LayoutDefault } from '../Layout'
 

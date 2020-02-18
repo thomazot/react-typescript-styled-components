@@ -3,7 +3,7 @@ import { useSelector, useDispatch } from 'react-redux'
 import { Repository } from '../../stores/repositories/types'
 import { loadRequest } from '../../stores/repositories/actions'
 import { ApplicationState } from '../../stores/index'
-import Item from './Item'
+import Item from './item'
 
 const List = () => {
     const dispatch = useDispatch()
